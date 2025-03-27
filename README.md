@@ -24,10 +24,10 @@ Ingen videoer eller tutorials, men god oversikt over devtools i Firefox.
 ## Kule ting å utforske
 
 - Søkepanel - søk i kildefiler ([chrome](https://youtu.be/KxjGYcHZ_uI?t=220))
-- Coverage (få innsyn i ubrukt kode)
+- [Coverage (få innsyn i ubrukt kode)](https://developer.chrome.com/docs/devtools/coverage)
 - React Developer Tools
-  [- Workspace for å lagre endringer som gjøres i nettleser direkte i filer (chrome)](https://developer.chrome.com/docs/devtools/workspaces)
-- console.table() 🤯
+- [Workspace for å lagre endringer som gjøres i nettleser direkte i filer (chrome)](https://developer.chrome.com/docs/devtools/workspaces)
+- [Console API](https://developer.chrome.com/docs/devtools/console/api)
 - [Overskriv response fra http-kall](https://youtu.be/KxjGYcHZ_uI?t=40)
 - [Overskriv response headers (f.eks. for å teste for CORS)](https://youtu.be/KxjGYcHZ_uI?t=306)
 - [Teste CLS (Cumulative Layout Shifts)](https://youtu.be/KxjGYcHZ_uI?t=150)
@@ -48,3 +48,4 @@ Ingen videoer eller tutorials, men god oversikt over devtools i Firefox.
 - Lighthouse rapporter
 - [Figurredigering (Firefox)](https://youtu.be/S36N8RGdY2U?t=537)
 - Js snippes som kan kjøres fra konsollen
+- [Koble VS Code debugger mot nettleser (React + Next.js)](https://youtu.be/l8knG0BPr-o?t=159)
